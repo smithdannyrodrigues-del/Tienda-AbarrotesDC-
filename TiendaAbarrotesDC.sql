@@ -358,10 +358,6 @@ INSERT INTO Detalle_Ventas (IdVenta, IdProducto, Cantidad, PrecioUnitario_Venta,
 (4, 22, 1, 1.00, 1.00); 
 GO
 
--- ============================================================
--- 8. COMPROBACIÓN FINAL 
--- ============================================================
-
 SELECT * FROM vw_LibroDeFiados;
 GO
 
